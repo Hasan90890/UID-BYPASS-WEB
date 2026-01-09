@@ -1,7 +1,7 @@
 """
 ═══════════════════════════════════════════════════════════════════
-    UID-BYPASS (United Corporation)
-    Created by: Dev luffy.cpp
+    UID-BYPASS (BLACK PRIME)
+    Created by: Dev BLACK PRIME
 ═══════════════════════════════════════════════════════════════════
 """
 import subprocess
@@ -22,8 +22,8 @@ def terminate_process(p):
         pass
 """
 ═══════════════════════════════════════════════════════════════════
-    UID-BYPASS (United Corporation)
-    Created by: Dev luffy.cpp
+    UID-BYPASS (BLACK PRIME)
+    Created by: Dev BLACK PRIME
 ═══════════════════════════════════════════════════════════════════
 """
 def main():
@@ -78,8 +78,8 @@ def main():
         print("Shutdown complete")
 """
 ═══════════════════════════════════════════════════════════════════
-    UID-BYPASS (United Corporation)
-    Created by: Dev luffy.cpp
+    UID-BYPASS (BLACK PRIME)
+    Created by: Dev BLACK PRIME
 ═══════════════════════════════════════════════════════════════════
 """
 if __name__ == "__main__":
