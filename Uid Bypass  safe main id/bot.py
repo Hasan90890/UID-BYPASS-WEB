@@ -118,7 +118,7 @@ async def start_bot(token, name, file_path):
 
 
 async def main(): 
-    token2 = "MTQxMTcyMzc3MDY2MTU2ODU2NA.GOs1Zr.8-QwR5ENrY7SktIu1iV6UADp_6oZ9etrADqYLk"
+    token2 = "MTQ1OTI3NTgyMTMyMjYwMDUyOQ.GS8uwA.J-ZIO05MG6MbRoL0pmtzjL3vDapoIkcdPo7YNo"
 
 
     await asyncio.gather(     
