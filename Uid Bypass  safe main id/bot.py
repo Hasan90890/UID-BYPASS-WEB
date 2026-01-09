@@ -1,7 +1,7 @@
 """
 ═══════════════════════════════════════════════════════════════════
-    UID-BYPASS (United Corporation)
-    Created by: Dev luffy.cpp
+    UID-BYPASS (BLACK PRIME)
+    Created by: Dev BLACK PRIME
 ═══════════════════════════════════════════════════════════════════
 """
 
